@@ -1,0 +1,5 @@
+# Full stealth stack: real headless Chromium + Fernet-encrypted vault.
+-r requirements.txt
+playwright>=1.40.0
+cryptography>=41.0.0
+pillow>=10.0.0

@@ -1,0 +1,5 @@
+# Light install: MCP server + CLI + demo backend + vault (obfuscation fallback).
+# Full stealth stack (real headless Chromium + encrypted vault):
+#   pip install -r requirements-full.txt && playwright install chromium
+mcp>=1.0.0
+click>=8.1.0
